@@ -6,7 +6,10 @@
   <img align="left" alt="Kalyani's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
- - Hi, I’m Kalyani Lanjewar
+
+
+
+   Hi, I’m Kalyani Lanjewar
  - 👀 I’m interested in Explore topics
  - 🌱 I’m currently learning Python
  - 💞️ I’m looking to collaborate on ...
