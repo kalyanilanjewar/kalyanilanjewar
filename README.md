@@ -4,7 +4,7 @@
 </a>
  <a href="https://www.linkedin.com/in/kalyanilanjewar24/">
   <img align="left" alt="Kalyani's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>-
+</a> -
 
  
  - Hi, I’m Kalyani Lanjewar
