@@ -12,7 +12,7 @@
  Hi, I'm [Kalyani Lanjewar]()
  
  - 👀 I’m interested in Explore topics
- - 🌱 I’m currently learning Python
+ - 🌱 I’m currently working on Java
  - 💞️ I’m looking to collaborate on ...
  - 📫 How to reach me kblanjewar024@gmail.com
 
