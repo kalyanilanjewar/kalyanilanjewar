@@ -51,11 +51,10 @@
 
 ## <b> Let's Connect..!</b><img src="https://raw.githubusercontent.com/b1ink0/b1ink0/main/assets/handshake.gif" width ="80">
 
+<a href="https://www.linkedin.com/in/kalyanilanjewar/" target="_blank">LinkedIn Profile</a>
 <br>
+
 <div align='left'>
-
-
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -66,7 +65,7 @@
  <a href="https://twitter.com/kalyani_2419">
   <img align="left" alt="Kalyani Lanjewar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
- <a href="https://www.linkedin.com/in/kalyanilanjewar24/">
+ <a href="https://www.linkedin.com/in/kalyanilanjewar/">
   <img align="left" alt="Kalyani's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
 
