@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Kalyani Lanjewar</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!--- snake -->
-<div align="center">
+<!--- <div align="center"> 
   <img  src="https://raw.githubusercontent.com/b1ink0/b1ink0/main/assets/grid-snake.svg"
        alt="snake" /></a>
 </div>
@@ -40,17 +40,17 @@
 - **Cloud Hosting**:
 ---->
  
-
+<!--
 - **Softwares and Tools**: Eclipse, IntelliJ, VSCode, Spring Tool Suit (STS)
 
-
+-->
 </p>
 
 <br>
 
 
 
-
+<!--
 ## <b> Let's Connect..!</b><img src="https://raw.githubusercontent.com/b1ink0/b1ink0/main/assets/handshake.gif" width ="80">
 
 <a href="https://www.linkedin.com/in/kalyanilanjewar/" target="_blank">LinkedIn Profile</a>
@@ -63,6 +63,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
+-->
  <!------------------------------------------------->
 <!---
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
